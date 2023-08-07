@@ -11,7 +11,7 @@
 export default () => ({
   pronouns: "He" | "Him",
   codeName: "Jr_stuxnet",
-  passkey: "password",
+  password: "password",
   contact: "eebadreza@gmail.com".
   talkAbout: [
     "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA"
