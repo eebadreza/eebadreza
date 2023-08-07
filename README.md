@@ -10,8 +10,9 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  codeName: "Jr_stuxnet"
-  password: "password",
+  codeName: "Jr_stuxnet",
+  passkey: "password",
+  contact: "eebadreza@gmail.com".
   talkAbout: [
     "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA"
   ],
@@ -26,10 +27,6 @@ export default () => ({
     languages: ["Java", "C", "C#", "Python", "JavaScript"],
     databases: ["MongoDB", "SQL"]
   },
-  Quote : 
+  bits : `I think I broke my fingers while trying to get this damn thing running ${codeName}!`
 });
 ```
-
----
-
-⭐️ From [sudiptog81](https://github.com/sudiptog81)
