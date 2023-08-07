@@ -2,40 +2,31 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Jr_stuxnet/)](https://twitter.com/Jr_stuxnet/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eebadreza/)](https://www.linkedin.com/in/eebadreza/)
-[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
 
-👨‍🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
+👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  pubKey: "866E 3ED1 217B 85DC",
-  blogUrl: "http://blog.ghosh.pro/",
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
+  codeName: "Jr_stuxnet"
+  password: "password",
+  talkAbout: [
+    "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA"
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue"],
-      css: ["materialize", "bulma", "bootstrap"]
+      js: ["React"],
+      css: ["Bootstrap"]
     },
     backEnd: {
-      java: ["spring"],
-      js: ["node", "express"],
-      csharp: ["asp.net core"],
-      python: ["django", "flask"],
-      misc: ["bash", "systemd", "selinux"]
+      js: ["Node", "Express"],
     },
-    machineLearning: ["tensorflow", "keras", "pytorch"],
-    databases: ["mongo", "postgres", "redis"]
+    languages: ["Java", "C", "C#", "Python", "JavaScript"],
+    databases: ["MongoDB", "SQL"]
   },
-  memberships: [
-    "Internet Freedom Foundation",
-    "Association for Computing Machinery",
-    "Institute of Electrical and Electronics Engineers"
-  ]
+  Quote : 
 });
 ```
 
