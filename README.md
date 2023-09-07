@@ -14,6 +14,13 @@
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 [![Quora](https://img.shields.io/badge/-Quora-222222?style=flat-square&logo=Quora&logoColor=white&link)]()
 
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eebadreza/count.svg" />
+</p>
+
 👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
 ```js
