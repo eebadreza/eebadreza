@@ -9,6 +9,7 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-222222?style=flat-square&logo=Youtube&logoColor=white&link)]()
 [![Discord](https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=Discord&logoColor=white&link)]()
 [![Reddit](https://img.shields.io/badge/-Reddit-222222?style=flat-square&logo=Reddit&logoColor=white&link)]()
+[![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 
 👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
