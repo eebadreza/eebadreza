@@ -8,13 +8,12 @@
 [![Codechef](https://img.shields.io/badge/-Codechef-222222?style=flat-square&logo=Codechef&logoColor=white&linkhttps://www.hackerrank.com/eebadreza?hr_r=1)](https://www.hackerrank.com/eebadreza?hr_r=1)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-222222?style=flat-square&logo=Leetcode&logoColor=white&linkhttps://www.hackerrank.com/eebadreza?hr_r=1)](https://www.hackerrank.com/eebadreza?hr_r=1)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-222222?style=flat-square&logo=StackOverflow&logoColor=white&linkhttps://stackoverflow.com/users/19852128/eebad-reza)](https://stackoverflow.com/users/19852128/eebad-reza)
-[![Youtube](https://img.shields.io/badge/-Youtube-222222?style=flat-square&logo=Youtube&logoColor=white&link)]()
 [![Discord](https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=Discord&logoColor=white&link)]()
 [![Reddit](https://img.shields.io/badge/-Reddit-222222?style=flat-square&logo=Reddit&logoColor=white&link)]()
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
-[![Quora](https://img.shields.io/badge/-Quora-222222?style=flat-square&logo=Quora&logoColor=white&link)]()
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+
+<img align="center" src="https://github.com/eebadreza/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 
 <p align="center"> 
   Visitor count<br>
