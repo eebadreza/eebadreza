@@ -13,12 +13,7 @@
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 
 
-<img align="center" src="https://github.com/eebadreza/Cool-Readme-ideas/blob/master/data/screen open.gif" />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/eebadreza/count.svg" />
-</p>
+<img align="center" src="https://github.com/eebadreza/eebadreza/blob/8e630dd9c30dd4587adaa182caeb81971e77bd59/data/Banner.jpeg" />
 
 👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
@@ -45,3 +40,7 @@ export default () => ({
   bits : `I think I broke my fingers while trying to get this damn thing running ${codeName}!`
 });
 ```
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eebadreza/count.svg" />
+</p>
