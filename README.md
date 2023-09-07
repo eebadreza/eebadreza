@@ -5,7 +5,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 [![Replit](https://img.shields.io/badge/-Replit-222222?style=flat-square&logo=Replit&logoColor=white&link=https://replit.com/@EebadReza)](https://replit.com/@EebadReza)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-222222?style=flat-square&logo=Hackerrank&logoColor=white&linkhttps://www.hackerrank.com/eebadreza?hr_r=1)](https://www.hackerrank.com/eebadreza?hr_r=1)
-
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-222222?style=flat-square&logo=StackOverflow&logoColor=white&linkhttps://stackoverflow.com/users/19852128/eebad-reza)](https://stackoverflow.com/users/19852128/eebad-reza)
+[![Youtube](https://img.shields.io/badge/-Youtube-222222?style=flat-square&logo=Youtube&logoColor=white&link)]()
+[![Discord](https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=Discord&logoColor=white&link)]()
+[![Reddit](https://img.shields.io/badge/-Reddit-222222?style=flat-square&logo=Reddit&logoColor=white&link)]()
 
 👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
