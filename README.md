@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eebad Reza 🤖
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=B7C2C6&vCenter=true&multiline=true&width=700&height=100&lines=+Hi+%F0%9F%91%8B;I'm+Eebad+Reza+%F0%9F%A4%96;A+Full-Stack+Web+Developer+)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Jr_stuxnet/)](https://twitter.com/Jr_stuxnet/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eebadreza/)](https://www.linkedin.com/in/eebadreza/)
