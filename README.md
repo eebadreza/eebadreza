@@ -13,7 +13,7 @@
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 
 
-<img align="center" src="https://github.com/eebadreza/eebadreza/blob/8e630dd9c30dd4587adaa182caeb81971e77bd59/data/Banner.jpeg" />
+<img align="center" src="https://github.com/eebadreza/eebadreza/blob/66c110f24ecd62a7258c3f05ebc2f3ca3dcfee2d/data/Banner.jpeg" />
 
 👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
 
