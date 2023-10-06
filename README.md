@@ -8,7 +8,7 @@
 [![Codechef](https://img.shields.io/badge/-Codechef-222222?style=flat-square&logo=Codechef&logoColor=white&linkhttps://www.hackerrank.com/eebadreza?hr_r=1)](https://www.hackerrank.com/eebadreza?hr_r=1)
 [![Youtube](https://img.shields.io/badge/-Youtube-222222?style=flat-square&logo=Youtube&logoColor=white&link)]()
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-222222?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/19852128/eebad-reza)](https://stackoverflow.com/users/19852128/eebad-reza)
-[![Discord](https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=Discord&logoColor=white&link)]
+[![Discord](https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=Discord&logoColor=white&link)]()
 [![Wokwi](https://img.shields.io/badge/-Wokwi-222222?style=flat-square&logo=Wokwi&logoColor=white&link=https://wokwi.com/makers/eebadreza)](https://wokwi.com/makers/eebadreza)
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 
