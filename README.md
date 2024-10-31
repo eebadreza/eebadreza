@@ -22,19 +22,22 @@
 export default () => ({
   pronouns: "He" | "Him",
   codeName: "Jr_stuxnet",
-  password: "password",
-  contact: "eebadreza@gmail.com".
-  talkAbout: [
-    "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA"
+  contactMe: "eebadreza@gmail.com".
+  talksAbout: [
+    "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA", "IoT"
   ],
   technologies: {
     frontEnd: {
-      js: ["React"],
+      js: {
+      "library" : "React",
+      "framework" : "Angular",
+      },
       css: ["Bootstrap"]
     },
     backEnd: {
       js: ["Node", "Express"],
     },
+    templatingEngine: ["PUG", "EJS"],
     languages: ["Java", "C", "C#", "Python", "JavaScript"],
     databases: ["MongoDB", "SQL"]
   },
