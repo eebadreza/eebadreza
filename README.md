@@ -23,10 +23,7 @@ export default () => ({
   pronouns: "He" | "Him",
   codeName: "Jr_stuxnet",
   contactMe: "eebadreza@gmail.com".
-  talksAbout: [
-    "Web_Dev", "AI_ML", "Blockchain", "UI_UX", "DSA", "IoT"
-  ],
-  technologies: {
+  technology: {
     frontEnd: {
       js: {
       "library" : "React",
@@ -38,8 +35,8 @@ export default () => ({
       js: ["Node", "Express"],
     },
     templatingEngine: ["PUG", "EJS"],
-    languages: ["Java", "C", "C#", "Python", "JavaScript"],
-    databases: ["MongoDB", "SQL"]
+    language: ["Java", "C", "C#", "Python", "JavaScript"],
+    database: ["MongoDB", "SQL"]
   },
   bits : `I think I broke my fingers while trying to get this damn thing running ${codeName}!`
 });
