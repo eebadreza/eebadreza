@@ -16,8 +16,6 @@
 
 <img align="center" src="https://github.com/eebadreza/eebadreza/blob/66c110f24ecd62a7258c3f05ebc2f3ca3dcfee2d/data/Banner.jpeg" />
 
-👨‍🎓 Majoring in Computer Science Engineering from the Institute of Technical Education and Research
-
 ```js
 export default () => ({
   pronouns: "He" | "Him",
