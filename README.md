@@ -32,7 +32,7 @@ export default () => ({
     backEnd: {
       js: ["Node", "Express"],
     },
-    templatingEngine: ["PUG", "EJS"],
+    templatingEngine: ["PUG", "EJS", "HBS"],
     language: ["Java", "C", "C#", "Python", "JavaScript"],
     database: ["MongoDB", "SQL"]
   },
