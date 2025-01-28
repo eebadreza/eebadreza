@@ -14,8 +14,6 @@
 [![Disqus](https://img.shields.io/badge/-Disqus-222222?style=flat-square&logo=Disqus&logoColor=white&link)]()
 
 
-<img align="center" src="https://github.com/eebadreza/eebadreza/blob/66c110f24ecd62a7258c3f05ebc2f3ca3dcfee2d/data/Banner.jpeg" />
-
 ```js
 export default () => ({
   pronouns: "He" | "Him",
