@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=1300&color=9C9EA1&width=700&lines=Hi+%F0%9F%91%8B;I'm+Eebad+Reza+%F0%9F%A4%96;A+Full-Stack+Web+Developer+%F0%9F%96%A5%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=1300&color=9C9EA1&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Eebad+Reza+%F0%9F%A4%96;Software+Developer+|+Cloud+Engineer+[IBM]+%F0%9F%96%A5%EF%B8%8F)
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Jr_stuxnet/)](https://twitter.com/Jr_stuxnet/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eebadreza/)](https://www.linkedin.com/in/eebadreza/)
@@ -18,24 +19,48 @@
 export default () => ({
   pronouns: "He" | "Him",
   codeName: "Jr_stuxnet",
-  contactMe: "eebadreza@gmail.com".
+  contactMe: "eebadreza@gmail.com",
+
+  title: "Software Developer | Cloud Engineer",
+
+  links: {
+    github: "https://github.com/Jr_stuxnet",
+    linkedIn: "https://linkedin.com/in/your-linkedin-id",
+    portfolio: "https://your-portfolio-url.com", // if available
+  },
+
   technology: {
     frontEnd: {
       js: {
-      "library" : "React",
-      "framework" : "Angular",
+        library: "React",
+        framework: "Angular",
       },
-      css: ["Bootstrap"]
+      css: ["Bootstrap", "CSS"], 
     },
     backEnd: {
       js: ["Node", "Express"],
+      python: ["StreamLit", "Flask"],
     },
     templatingEngine: ["PUG", "EJS", "HBS"],
-    language: ["Java", "C", "C#", "Python", "JavaScript"],
-    database: ["MongoDB", "SQL"]
+    language: ["Java", "C", "C#", "Python", "JavaScript", "TypeScript"], 
+    database: ["MongoDB", "MySQL", "DynamoDB"], 
+    devOps: ["Docker", "Podman"], 
   },
-  bits : `I think I broke my fingers while trying to get this damn thing running ${codeName}!`
+
+  experience: [
+    {
+      company: "IBM Inc.",
+      role: "Cloud Infrastructure Specilist",
+      period: "Feb 2025 - present",
+      stack: ["AWS", "Azure", "IBM Cloud", "AAP"]
+    }
+  ],
+
+  certifications: ["AWS CLF-C02"],
+
+  bits: `I think I broke my fingers while trying to get this damn thing running ${codeName}! But hey, at least it runs.`
 });
+
 ```
 <p align="center"> 
   Visitor count<br>
