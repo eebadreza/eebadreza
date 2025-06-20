@@ -24,8 +24,8 @@ export default () => ({
   title: "Software Developer | Cloud Engineer",
 
   links: {
-    github: "https://github.com/Jr_stuxnet",
-    linkedIn: "https://linkedin.com/in/your-linkedin-id",
+    github: "https://github.com/eebadreza/",
+    linkedIn: "https://linkedin.com/in/eebadreza",
     portfolio: "https://your-portfolio-url.com", // if available
   },
 
