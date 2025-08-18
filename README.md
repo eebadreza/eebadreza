@@ -56,7 +56,7 @@ export default () => ({
     }
   ],
 
-  certifications: ["AWS CLF-C02"],
+  certifications: ["AWS CLF-C02", "AZ 104"],
 
   bits: `I think I broke my fingers while trying to get this damn thing running ${codeName}! But hey, at least it runs.`
 });
