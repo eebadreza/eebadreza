@@ -63,6 +63,6 @@ export default () => ({
 
 ```
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/eebadreza/count.svg" />
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/eebadreza/count.svg" /> -->
 </p>
