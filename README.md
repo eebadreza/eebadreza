@@ -26,7 +26,7 @@ export default () => ({
   links: {
     github: "https://github.com/eebadreza/",
     linkedIn: "https://linkedin.com/in/eebadreza",
-    portfolio: "https://your-portfolio-url.com", // in progress
+    portfolio: "https://eebadreza.pages.dev", 
   },
 
   technology: {
